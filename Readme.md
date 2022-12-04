@@ -2,7 +2,7 @@
 
 ## **Overview of the Project** 
 
-![Alt Live-Screenshot](/ss1.png)
+![Alt Live-Screenshot](ss1.png)
 
 
 
